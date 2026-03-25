@@ -1,0 +1,14 @@
+{
+  "name": "ai-style-designer",
+  "version": "0.1.0",
+  "description": "AI-powered aesthetic style designer for audio plugin UIs",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build",
+    "test": "echo 'No tests yet'"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.10.1"
+  }
+}

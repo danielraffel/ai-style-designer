@@ -4,6 +4,8 @@ A Tauri 2 desktop app that lets you describe visual styles in natural language. 
 
 Uses your existing Claude Max subscription via the `claude` CLI - no API key needed.
 
+**[Download for macOS (Apple Silicon)](https://github.com/danielraffel/ai-style-designer/releases/latest/download/AI.Style.Designer_0.1.0_aarch64.dmg)** (3.2MB, unsigned - right-click > Open to bypass Gatekeeper)
+
 ## What It Does
 
 - Type a style description ("warm analog synth", "Apple Aqua", "minimal Dieter Rams") and the preview updates live
